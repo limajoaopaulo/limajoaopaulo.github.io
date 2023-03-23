@@ -2,7 +2,6 @@
 layout: post
 title: Project 5
 description: another project
-image: ""
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.

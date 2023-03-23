@@ -1,7 +1,7 @@
 ### your site title here
 
 title: João Paulo Lima
-description: Pesquisador | Dados | Curiosidade
+description: Pesquisador | Dados | R
 
 baseurl:  #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
@@ -30,6 +30,11 @@ markdown: kramdown
 
 # Tracker
 analytics:
+
+reading_time:
+  second_plural: "sec"    # default: seconds
+  minute_singular: "min"  # default: minute
+  minute_plural: "min"    # default: minutes
 
 # optimization -> compress.html
 compress_html:
