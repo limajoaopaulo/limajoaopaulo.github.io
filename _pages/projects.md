@@ -24,18 +24,35 @@ published: true
           </a>
   </div>
 
-  {% else %}
 
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
+  
 
+{% else %}
+
+  {% if project.image %}
+
+    <div class="projectTile">
+            <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+            <span>
+                <h2>{{ project.title }}</h2>
+                <br/>
+                <p>{{ project.description }}</p>
+            </span>
+            <img class="gallery-image"  src= "{{ project.image }}">
+            </a>
+    </div>
+
+    {% else %}
+    <div class="projectTile">
+            <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+            <span>
+                <h2>{{ project.title }}</h2>
+                <br/>
+                <p>{{ project.description }}</p>
+            </span>
+            </a>
+    </div>
+ {% endif %}
   {% endif %}
 
   {% endfor %}

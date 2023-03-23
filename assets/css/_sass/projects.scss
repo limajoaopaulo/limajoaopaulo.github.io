@@ -12,6 +12,14 @@
   margin: -1rem -1rem;
 }
 
+.gallery-image {
+	display: flex;
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+	transition: transform 400ms ease-out;
+}
+
 .projectTile {
   /* Minimum width of 200px and grow to fit available space */
   flex: 1 0 200px;
@@ -23,11 +31,11 @@
   height: 200px;
   width: 100%;
   overflow: hidden;
-  display: table;
+  display: grid;
 }
 
 .projectTile a {
-  display: table-cell;
+  display: inline-grid;
   vertical-align: middle;
   text-align: center;
   cursor: pointer;

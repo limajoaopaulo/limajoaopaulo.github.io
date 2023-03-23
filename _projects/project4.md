@@ -2,6 +2,7 @@
 layout: post
 title: Project 4
 description: another project
+image: "https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e"
 ---
 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
