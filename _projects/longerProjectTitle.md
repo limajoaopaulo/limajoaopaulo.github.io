@@ -1,148 +1,78 @@
 ---
 layout: post
-title: A longer Project Title
+title: Monitoramento e Análise de Dados
 description: short project description
 ---
 
-Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
+# Monitoramento e Análise de Dados: Programa Na Moral
+No universo das políticas públicas, a implementação de programas preventivos voltados para a adolescência é de extrema importância. Com o objetivo de promover habilidades socioemocionais e auxiliar os jovens nessa fase desafiadora, o programa Na Moral foi desenvolvido com base em técnicas de Terapia Cognitivo Comportamental (TCC). No entanto, para garantir sua eficácia, é crucial monitorar e analisar os dados gerados durante a execução do programa. Neste artigo, exploraremos como essa análise de dados e o monitoramento são essenciais para avaliar o progresso e orientar o aprimoramento contínuo do programa Na Moral.
 
-H1 Header
-============
+## Coleta de Dados
+Durante a formação das turmas, as escolas parceiras forneceram listas de alunos que poderiam se interessar pelo programa. Após obter o consentimento assinado pelos responsáveis, o programa foi oferecido aos alunos selecionados. A coleta de dados teve início nesse estágio, registrando informações operacionais como data, hora, presença dos alunos e conteúdo ministrado em cada encontro. Todos os registros foram validados pelas coordenadoras de campo, garantindo sua precisão e confiabilidade.
 
-Paragraphs are separated by a blank line.
+## Perfil das escolas participantes
 
-2nd paragraph. *Italic*, **bold**, and `monospace`. Itemized lists
-look like:
+Apesar de apresentar pouca variação quanto a prova SAEB, existe uma grande variação na distorção idade-série e na taxa de abandono escolar entre as escolas selecionadas.
 
-  * this one
-  * that one
-  * the other one
+![img1](/assets/images/Obsidian/Pasted image 20230627150208.png)
 
-Note that the actual text
-content starts at 4-columns in.
+## Encontros realizados: linha do tempo por turma
 
-> Block quotes are
-> written like so.
->
-> They can span multiple paragraphs,
-> if you like.
+O monitoramento do programa buscou registrar informações a respeito da realização de cada encontro, possibilitando acompanhar detalhes da condução das oficinas em cada escola parceira. Dentre as 7 escolas parceiras foram formadas 12 turmas ao longo do tempo, sendo sido realizados diferentes números de encontros (conforme indicado). Nas turmas que começaram mais cedo foi possível realizar os 7 encontros (14 sessões) do programa Na Moral já nessa etapa inicial do projeto piloto.
+
+![img1](/assets/images/Obsidian/Pasted image 20230627150256.png)
 
 
-H2 Header
-------------
+## Frequência e Participação dos Alunos
+Uma análise detalhada dos dados revelou insights valiosos sobre a frequência e participação dos alunos no programa Na Moral. O número de inscritos foi comparado com o número de alunos presentes, permitindo avaliar o engajamento dos participantes. Essas informações foram fundamentais para identificar possíveis obstáculos à participação e para adaptar estratégias que aumentassem a adesão.
 
-Here's a numbered list:
+![img1](/assets/images/Obsidian/Pasted image 20230627150351.png)
 
- 1. first item
- 2. second item
- 3. third item
+![img1](/assets/images/Obsidian/Pasted image 20230627150413.png)
 
-Note again how the actual text starts at 4 columns in (4 characters
-from the left side). Here's a code sample:
-
-    # Let me re-iterate ...
-    for i in 1 .. 10 { do-something(i) }
-
-As you probably guessed, indented 4 spaces. By the way, instead of
-indenting the block, you can use delimited blocks, if you like:
-
-~~~
-define foobar() {
-    print "Welcome to flavor country!";
-}
-~~~
-
-(which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
-
-~~~cpp
-#include <iostream>
-using namespace std;
-
-int main() 
-{    
-    cout << "Size of char: " << sizeof(char) << " byte" << endl;
-    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
-    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
-    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
-
-    return 0;
-}
-~~~
-
-### An H3 header ###
-
-Now a nested list:
-
- 1. First, get these ingredients:
-
-      * carrots
-      * celery
-      * lentils
-
- 2. Boil some water.
-
- 3. Dump everything in the pot and follow
-    this algorithm:
-
-        find wooden spoon
-        uncover pot
-        stir
-        cover pot
-        balance wooden spoon precariously on pot handle
-        wait 10 minutes
-        goto first step (or shut off burner when done)
-
-    Do not bump wooden spoon or it will fall.
-
-Notice again how text always lines up on 4-space indents (including
-that last line which continues item 3 above).
-
-Here's a footnote [^1].
-
-[^1]: Some footnote text.
-
-Tables can look like this:
-
-| Header 1 | Header 2                   | Header 3 |
-|:--------:|:--------------------------:|:--------:|
-| data1a   | Data is longer than header | 1        |
-| d1b      | add a cell                 |          |
-| lorem    | ipsum                      | 3        |
-|          | empty outside cells        |          |
-| skip     |                            | 5        |
-| six      | Morbi purus                | 6        |
+![img1](/assets/images/Obsidian/Pasted image 20230627150447.png)
 
 
-A horizontal rule follows.
+Tendo em vista o caráter voluntário da participação no programa, o acompanhamento da frequência dos alunos participantes é importante para monitorar a o engajamento e aceitação do conteúdo das oficinas.
 
-***
+O maior encontro realizado teve presença de 19 alunos, já o menor teve 2 alunos presentes.
 
-Here's a definition list:
+![img1](/assets/images/Obsidian/Pasted image 20230627150538.png)
 
-apples
-  : Good for making applesauce.
+Em média cada turma do programa teve 7 alunos presentes. Os primeiros encontros possuem uma média de presentes maior que a observada nos encontros finais.
 
-oranges
-  : Citrus!
+![img1](/assets/images/Obsidian/Pasted image 20230627150608.png)
 
-tomatoes
-  : There's no "e" in tomatoe.
+Todos os conceitos e estratégias trabalhadas se relacionam com os encontros seguintes, de forma que os participantes possam sempre relembrar e reforçar as habilidades previamente trabalhadas.
 
-Again, text is indented 4 spaces. (Put a blank line between each
-term and  its definition to spread things out more.)
+Por isso, monitoramos quantos encontros cada aluno esteve presente para entender a capacidade que as oficinas tinham de manter os alunos envolvidos.
 
-Here's a "line block" (note how whitespace is honored):
+Em média cada aluno presente participou de 53.7% dos encontros realizados em sua turma.
 
-| Line one
-|   Line too
-| Line tree
+![img1](/assets/images/Obsidian/Pasted image 20230627150629.png)
 
-and images can be specified like so:
+A taxa média de frequência não varia de forma significativa entre meninas e meninos.
 
-![example image](https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?w=300&h=300&fit=crop "An exemplary image")
+Comparando alunos matriculados em diferentes anos escolares observamos uma aderência mais baixa entre os alunos matriculados no 9º ano.
 
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
+![img1](/assets/images/Obsidian/Pasted image 20230627150655.png)
 
-$$I = \int \rho R^{2} dV$$
+## Satisfação dos Alunos
+A opinião e satisfação dos alunos também foram levadas em consideração por meio de questionários aplicados ao final de cada encontro. Os alunos foram incentivados a expressar seu nível de entusiasmo e interesse em participar de futuros encontros. Esses feedbacks forneceram uma perspectiva direta sobre a atratividade das atividades e o impacto do programa em sua motivação. O resultado revelou que, ao longo das oficinas, os alunos se tornavam mais entusiasmados e demonstravam interesse em continuar participando.
+
+![img1](/assets/images/Obsidian/Pasted image 20230627150755.png)
+
+![img1](/assets/images/Obsidian/Pasted image 20230627150803.png)
+
+
+## Percepção dos Facilitadores
+Os facilitadores do programa Na Moral desempenharam um papel fundamental na coleta de dados, registrando suas observações sobre o desempenho dos alunos, a receptividade das dinâmicas e quaisquer desafios enfrentados durante a condução das oficinas. Esses relatórios qualitativos enriqueceram a análise de dados, oferecendo percepções valiosas sobre a eficácia do programa e destacando áreas que poderiam ser aprimoradas.
+
+
+Avaliação dos facilitadores sobre a receptividade dos alunos em relação às dinâmicas realizadas.
+
+![img1](/assets/images/Obsidian/Pasted image 20230627150841.png)
+## Aprimorando o Programa
+Através da análise cuidadosa dos dados coletados, foi possível obter uma visão abrangente da implementação do programa Na Moral durante o projeto piloto. Os resultados obtidos permitiram identificar os pontos fortes do programa, bem como os desafios e oportunidades de melhoria. Com base nesses insights, é possível direcionar esforços para fortalecer o programa, tornando-o cada vez mais
+
+
