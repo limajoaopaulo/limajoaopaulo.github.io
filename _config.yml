@@ -1,28 +1,21 @@
-### your site title here
+### Site settings
+title: João Paulo D. Lima
+description: PhD Candidate in Development Economics
 
-title: João Paulo Lima
-description: Pesquisador | Dados | R
+baseurl: ""
+url: "https://limajoaopaulo.github.io"
+email: joaop.dlima@gmail.com
 
-baseurl:  #name of GitHub repository
-url: "" #custom url to be used instead of GitHub repository
-email: #
-
-# Pagination
-paginate: 4
-permalink: /blog/:year/:title/
-paginate_path: /blog/page:num/
+# Pagination (disabled — no blog)
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
-
+linkedin: "joão-paulo-duarte-lima-991510a1"
+github: "limajoaopaulo"
+researchgate: "Joao-Paulo-Lima-8"
+orcid: ""
 
 # Markdown
 highlighter: rouge
@@ -30,11 +23,6 @@ markdown: kramdown
 
 # Tracker
 analytics:
-
-reading_time:
-  second_plural: "sec"    # default: seconds
-  minute_singular: "min"  # default: minute
-  minute_plural: "min"    # default: minutes
 
 # optimization -> compress.html
 compress_html:
@@ -47,18 +35,7 @@ compress_html:
   profile: false
   startings: []
 
-#collection
-collections:
-  projects:
-    output: true
-    permalink: /projects/:name/
-    order:
-      - shortProject.md
-      - longerProjectTitle.md
-      - redirect.md
-      - project4.md
-      - project5.md
-      - project6.md
+# collections (none currently)
 
 sass:
   sass_dir: /assets/css/_sass
@@ -73,6 +50,5 @@ exclude:
 
 plugins:
   - jekyll-seo-tag
-  - jekyll-paginate
   - jekyll-email-protect
   - jekyll-target-blank

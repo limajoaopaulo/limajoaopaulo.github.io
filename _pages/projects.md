@@ -1,62 +1,12 @@
 ---
-title:
+title: Projects
 layout: default
 permalink: /projects/
 published: true
 ---
 
+## Applied & Field Research
 
-<div class="ProjectContainer">
-
-	<div class="gallery">
-
-
-  {% for project in site.projects %}
-
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
-
-
-  
-
-{% else %}
-
-  {% if project.image %}
-
-    <div class="projectTile">
-            <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-            <span>
-                <h2>{{ project.title }}</h2>
-                <br/>
-                <p>{{ project.description }}</p>
-            </span>
-            <img class="gallery-image"  src= "{{ project.image }}">
-            </a>
-    </div>
-
-    {% else %}
-    <div class="projectTile">
-            <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-            <span>
-                <h2>{{ project.title }}</h2>
-                <br/>
-                <p>{{ project.description }}</p>
-            </span>
-            </a>
-    </div>
- {% endif %}
-  {% endif %}
-
-  {% endfor %}
-
-	</div>
-
-</div>
+**Drogheda Values Survey** — [Development Perspectives](https://developmentperspectives.ie/)
+<small>A probability-sample household survey in Drogheda, Ireland, measuring human values with Schwartz's Portrait Values Questionnaire (PVQ-40). I designed the address-based probability sampling frame, built the R data pipeline (sampling, routing, response linkage, and field monitoring), and developed the mobile field-pack system used by enumerators on the doorstep (Qualtrics collection with a Cloudflare Worker → Google Sheets live-sync layer, packs served via GitHub Pages).</small>
+<small>*Role: data and methods lead. Survey design and field infrastructure built and maintained by me.*</small>

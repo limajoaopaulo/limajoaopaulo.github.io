@@ -1,28 +1,35 @@
-# Gradfolio
+# limajoaopaulo.github.io
 
-responsive, dark-mode ready Jekyll theme designed for use as a personal website and portfolio. [Here's a live demo](https://jitinnair1.github.io/gradfolio/)
+Personal academic website of **João Paulo D. Lima**, PhD Candidate in Economics at Université Paris Dauphine – PSL (LEDa-DIAL / IRD-DIAL), PRESILIENT project (Horizon Europe / MSCA).
 
-## Features
-- Responsive
-- Respects Dark Mode preference set by the user
-- Projects Page to showcase your work/side projects
-- Easily link to your profiles on ResearchGate and ORCID
+Live at <https://limajoaopaulo.github.io>.
 
-## Installation
-* Click on `Use this template`
-* Your new site should be ready at https://username.github.io/gradfolio/
-* You can now modify the contents and personalise the template
+## Stack
 
-Alternatively, you can [download the source files](https://github.com/jitinnair1/gradfolio/archive/master.zip) and [make changes locally](https://github.com/jitinnair1/gradfolio/wiki/Local-Development). 
+- [Jekyll 4](https://jekyllrb.com/) static site, built on the [Gradfolio](https://github.com/jitinnair1/gradfolio) theme (vendored into the repo).
+- Bilingual: English homepage (`index.md`) and Portuguese version (`_pages/pt/index.md`).
+- Content pages live in `_pages/` (`research.md`, `projects.md`, `cv.md`).
+- Styles in `assets/css/` (SCSS compiled by Jekyll). Navigation in `_includes/navigation.html`.
+- Deployed automatically to GitHub Pages via `.github/workflows/pages.yml` on push to `master`.
 
-## Documentation
+## Local development
 
-Check out the [Wiki](https://github.com/jitinnair1/gradfolio/wiki) for some tips on [publishing to a custom domain](https://github.com/jitinnair1/gradfolio/wiki/Publishing-your-website) or an [indicative list of things to customise before you publish](https://github.com/jitinnair1/gradfolio/wiki/Customising-your-website) 
+```sh
+bundle install
+bundle exec jekyll serve
+```
 
-### Also, check out:
+Then open <http://localhost:4000>.
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+## Editing content
 
+- **Bio:** `index.md` (English) and `_pages/pt/index.md` (Portuguese).
+- **Research:** `_pages/research.md` (working papers, work in progress, publications, conferences).
+- **Projects:** `_pages/projects.md`.
+- **CV:** `_pages/cv.md` and the PDF in `assets/docs/`.
+- **Profile photo:** `assets/images/profile.png`.
+- **Social links / site title:** `_config.yml`.
 
-PS: If you liked the theme, do star :star: it! Thanks!
+## Credits
+
+Built on the [Gradfolio](https://github.com/jitinnair1/gradfolio) theme by Jitin Nair (MIT, see `LICENSE`). Content © João Paulo D. Lima.

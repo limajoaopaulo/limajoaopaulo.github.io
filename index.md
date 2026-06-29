@@ -7,13 +7,28 @@ profile:
 published: true
 ---
 
-Olá meu nome é João Paulo, eu sou mestre em economia pela UFRJ e atualmente estou trabalhando no centro de ciência aplicada a segurança pública da FGV.
+I am a PhD Candidate in Economics at [Université Paris Dauphine – PSL](https://dauphine.psl.eu/), affiliated with the [LEDa-DIAL](https://leda.dauphine.fr/) research lab and [IRD/DIAL](https://www.dial.ird.fr/). My supervisors are [Mireille Razafindrakoto](https://www.dial.ird.fr/membres/razafindrakoto-mireille/) and [François Roubaud](https://www.dial.ird.fr/membres/roubaud-francois/).
 
-Eu tenho algumas experiências com pesquisa na area de mercado de trabalho e saúde.
+I am part of the [PRESILIENT](https://www.presilient.eu/) project (Horizon Europe), funded by a Marie Skłodowska-Curie Industrial Doctorate grant.
 
-PS: If you liked the theme, do star it on GitHub!
+### Thesis
 
-### Also, check out:
+My dissertation, *Informality in the Digital Era: Three Essays on the Brazilian Case*, studies how digitalization reshapes labor markets and social protection in developing economies, with an empirical focus on Brazil. I use causal inference methods applied to administrative and survey data.
 
-- [autoCV](https://github.com/jitinnair1/autocv) - a LaTeX template that builds and deploys the CV using GitHub Actions, so you will always have a ready link for your latest CV
-- [Tail](https://github.com/jitinnair1/tail) - a minimal, quick-setup template for a blog
+**Chapter 1** examines the effect of broadband internet expansion on informal employment in Brazil, exploiting variation in infrastructure deployment to show how digitalization changes labor market structure.
+
+**Chapter 2** evaluates the impact of a basic income and complementary currency program in Maricá on formal local employment, using generalized synthetic control methods and administrative data.
+
+**Chapter 3** analyzes the effect of Pix (Brazil's instant payment system) on informal transfers in response to health shocks, studying the link between financial digitalization and informal social protection.
+
+### Research Interests
+
+Development economics, labor markets, informality, digitalization, cash transfers, causal inference.
+
+### Contact
+
+📧 [joaop.dlima@gmail.com](mailto:joaop.dlima@gmail.com)
+
+<small>
+<a href="{{site.baseurl}}/pt/">🇧🇷 Versão em português</a>
+</small>
