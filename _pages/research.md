@@ -5,44 +5,30 @@ permalink: /research/
 published: true
 ---
 
-## Working Papers
+## Informality in the Digital Era
 
-**Lima, J. P.** "The Effect of Internet Expansion on Informal Employment Opportunities in Brazil."
-<small>This paper examines how broadband internet expansion affects informal employment in Brazil, exploiting variation in infrastructure deployment to show how digitalization changes labor market structure.</small>
-<small>*Presented at ANPEC 2025, RISE-SASE 2025, Göttingen Workshop 2025, PSL Summer Retreat 2025.*</small>
+My doctoral research asks how digitalization is reshaping labor markets and social protection in developing economies. Three projects — all in progress — build the argument with Brazilian administrative and survey data and modern causal-inference methods.
 
-**Lima, J. P.**; Pero, V.; Waltenberg, F. "Can Cash Transfers Paid in Complementary Currency Boost Local Employment? Evidence from Brazil."
-<small>Using generalized synthetic control methods and administrative data, this paper evaluates the impact of Maricá's basic income and complementary currency program on formal local employment.</small>
-<small>*Updated and extended version of Lima, Pero & Waltenberg (2023). Under revision.*</small>
+**Broadband Internet and Informal Employment in Brazil**
+<small>Does faster internet move workers into formal jobs, or into new forms of informal work? Using the rollout of fiber-optic backhaul infrastructure as an instrument for local broadband access (PNAD Contínua, 2017–2024), I find that the *level* of informality barely moves while its *composition* shifts toward lower-tier, own-account informal work. The effect tracks the digital economy running on the infrastructure rather than the infrastructure itself.</small>
+<small>*Solo-authored · dissertation chapter · presented at ANPEC, RISE-SASE, the Göttingen Workshop, and the PSL Summer Retreat (2025).*</small>
 
----
+**Cash Transfers and Local Development: Evidence from Maricá**
+<small>Maricá pays a basic income through Mumbuca, a city-only digital complementary currency funded by oil royalties. Using generalized synthetic control over Rio de Janeiro municipalities, I estimate the program's effect on firm creation, formal employment, and wages. Early results show a formal wage bill well above the counterfactual, concentrated in non-tradable sectors — a pattern an oil windfall alone cannot explain, since a neighboring oil town with no program moves the other way.</small>
+<small>*With Mireille Razafindrakoto and François Roubaud · dissertation chapter · under revision. Builds on earlier work published in the Revue d'économie du développement (2023).*</small>
 
-## Work in Progress
-
-**Lima, J. P.** "Pix and Informal Transfers in Response to Health Shocks."
-<small>This paper analyzes the effect of Pix (Brazil's instant payment system) on informal transfers in response to health shocks, studying the link between financial digitalization and informal social protection.</small>
-<small>*Third PhD chapter. Poster presented at PSL Summer Retreat, June 2025.*</small>
+**Digital Payments and Informal Risk-Sharing: Brazil's Pix**
+<small>When a household suffers an income shock, does instant digital payment (Pix) change how much informal help it receives from family? Using the PNAD Contínua panel and a triple-difference design around Pix's 2020 launch, I study informal transfers as a form of social protection. This is the most exploratory of the three chapters, and the early results are counterintuitive and still being worked through.</small>
+<small>*Dissertation chapter · in progress.*</small>
 
 ---
 
-## Publications
+## Other Research
 
-**Lima, J. P.**; Pero, V.; Waltenberg, F. (2023). "Evaluating the Role of a Cash Transfer Program in Promoting Local Employment." *Revue d'économie du développement*.
-
-Castro-Alves, J.; Silva, S. L.; **Lima, J. P.**; Ribeiro-Alves, M. (2021). "Were the Socio-economic Determinants of Municipalities Relevant to the Increment of COVID-19 Related Deaths in Brazil in 2020?" *PLoS One*.
-
-Waltenberg, F. et al. (2021). "Monnaie sociale, revenu de base renforcé et prestations d'urgence aux travailleurs [...] pendant la crise de la COVID-19." In: *COVID-19: Impacts économiques et sociaux*. Les presses de l'Université de Montréal.
+**Gender and Informality in Dakar**
+<small>Standard labor-survey classifications can systematically misrepresent women's work. Drawing on Senegal's ERI-ESI survey, this project shows how occupation coding, working-time measures, and "own-account" labels obscure the precarious, pluriactive, and reproductive dimensions of women's work in Dakar's informal economy.</small>
+<small>*Co-authored · in progress.*</small>
 
 ---
 
-## Selected Conferences & Presentations
-
-**2025:** ANPEC (São Paulo) · RISE-SASE Conference (UFF) · Göttingen Workshop on Ibero-American Development · Journée des Doctorants (MINES Paris–PSL) · PSL Summer Retreat · 5th PRESILIENT Workshop (Bucharest)
-
-**2024:** 3rd PRESILIENT Workshop (University of Lisbon) · Causal Inference Workshop (Madrid) · International Summer School on Informality (Split)
-
-**2022:** Second International Conference on Development Economics (ICDE, Clermont-Ferrand)
-
-**2021:** 49º Encontro Nacional de Economia (ANPEC)
-
-**2019:** XVI Encontro Nacional da ABET (Salvador)
+<small>A full list of talks and earlier publications is in my [CV](/cv/).</small>
